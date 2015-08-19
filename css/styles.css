@@ -1,6 +1,12 @@
-header {
-	height: 100px;
-	width: 100%;
-	border: 1px solid black;
-	display: block;	
+.top-navigation {
+	background-color: #fff;
 }
+
+.top-navigation > .content {
+	width: 970px;
+	height: 70px;
+	margin: 0 auto;
+}
+
+
+

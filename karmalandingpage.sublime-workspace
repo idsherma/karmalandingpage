@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 825,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"subli",
+				"SublimeServer: Stop SublimeServer"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ivorysherman/projects/example.html",
+		"/Users/ivorysherman/Library/Application Support/Sublime Text 2/Packages/User/SublimeServer.sublime-settings",
+		"/Users/ivorysherman/first-site/mystyles.css",
+		"/Users/ivorysherman/first-site/freshprince.html",
+		"/Users/ivorysherman/first-site/mystyle.css",
+		"/Users/ivorysherman/rampup/FireStation.rb",
+		"/Users/ivorysherman/rampup/adventuretime.rb",
+		"/Users/ivorysherman/rampup/blackjackgame.rb",
+		"/Users/ivorysherman/rampup/adventuregame.rb",
+		"/Users/ivorysherman/rampup/week5.rb",
+		"/Users/ivorysherman/rampup/part2.rb",
+		"/Users/ivorysherman/rampup/week6.rb",
+		"/Users/ivorysherman/rampup/codeacademy.rb",
+		"/Users/ivorysherman/rampup/numberhelp.rb",
+		"/script.rb",
+		"/Users/ivorysherman/rampup/cards.rb",
+		"/Users/ivorysherman/rampup/blackjack.rb",
+		"/Users/ivorysherman/rampup/numberguess.rb",
+		"/Users/ivorysherman/rampup/stringscramble.rb",
+		"/Users/ivorysherman/rampup/beerbottles.rb",
+		"/Users/ivorysherman/rampup/week4.rb",
+		"/Users/ivorysherman/rampup/liftoff.rb",
+		"/Users/ivorysherman/rampup/secret.rb",
+		"/Users/ivorysherman/rampup/shuffle.rb",
+		"/Users/ivorysherman/rampup/leap_year.rb",
+		"/Users/ivorysherman/rampup/lab1.rb",
+		"/Users/ivorysherman/rampup/array.rb",
+		"/Users/ivorysherman/rampup/agetest.rb",
+		"/Users/ivorysherman/rampup/exampleweek2.rb",
+		"/Users/ivorysherman/rampup/lab3.rb",
+		"/Users/ivorysherman/rampup/test2.rb",
+		"/Users/ivorysherman/rampup/test4.rb",
+		"/Users/ivorysherman/rampup/lab2.rb",
+		"/Users/ivorysherman/rampup/test3.rb",
+		"/Users/ivorysherman/rampup/wordstest.rb",
+		"/Users/ivorysherman/rampup/lab1"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"start",
+			"choice",
+			"CardDeck",
+			"\n#def chances\n#number_of_guesses = 3\n	#while number_of_guesses > 0\n		 #number_of_guesses -= 1\n    #loop do \n    	#puts \"you have #{number_of_guesses} chances left!\"\n    	#number_of_guesses = gets.chomp.to_i\n    	#puts \"\\n\\n\"\n    	#break if number_of_guesses == 0 \n    #end\n#end \n@dealer.deck",
+			"rand",
+			"?",
+			"\"}",
+			"\n",
+			"	[",
+			"?(",
+			"str",
+			"end",
+			"\")\n",
+			"\n",
+			" \n",
+			"<= ",
+			"end",
+			"\")\n",
+			"number_guess",
+			" ",
+			"numbers",
+			"ß",
+			"27",
+			"\n",
+			"25",
+			"end",
+			"puts",
+			"name",
+			"old",
+			"subtract",
+			"to",
+			"2005"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ivorysherman/rampup/beerbottles.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
