@@ -1,5 +1,7 @@
-.top-navigation {
+.top-navigation, .links {
 	background-color: #fff;
+	float: right;
+	display: inline-block;
 }
 
 .top-navigation > .content {
@@ -7,6 +9,5 @@
 	height: 70px;
 	margin: 0 auto;
 }
-
 
 
