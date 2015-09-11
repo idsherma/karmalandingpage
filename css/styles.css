@@ -106,6 +106,8 @@ h2 {
 
 div.container {
 	display: inline-block;
+	text-align: center;
+	width: 32%;
 }
 
 p {
@@ -115,4 +117,52 @@ p {
 	font-size: 1.563rem;
 	margin: 2.5rem 0px 1.875rem;
 }
+
+h5 {
+	margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    font-weight: 300;
+    font-size: 125%;
+    font-family: 'Roboto', sans-serif;
+    vertical-align: baseline;
+    box-sizing: border-box;
+}
+
+footer ul {
+	-webkit-padding-start: 0;
+}
+
+
+footer {
+	width: 100%;
+	text-align: center;
+}
+
+footer li {
+	display: inline-block;
+	padding: 15px;	
+}
+
+/**
+ * Responsive Design
+ */
+@media (min-width: 48rem) {
+    .content {
+        width: 46rem;
+    }
+}
+@media (min-width: 62rem) {
+    .content {
+        width: 60rem;
+    }
+}
+@media (min-width: 75rem) {
+    .content {
+        width: 60%;
+    }
+}
+
+
 

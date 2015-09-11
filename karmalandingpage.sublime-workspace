@@ -3,6 +3,62 @@
 	{
 		"selected_items":
 		[
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"mast",
+				"masthead-heading"
+			],
+			[
+				"inli",
+				"inline-block"
+			]
 		]
 	},
 	"buffers":
@@ -11,7 +67,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 825,
+				"buffer_size": 2491,
 				"line_ending": "Unix"
 			}
 		},
@@ -19,7 +75,7 @@
 			"file": "css/styles.css",
 			"settings":
 			{
-				"buffer_size": 84,
+				"buffer_size": 2182,
 				"line_ending": "Unix"
 			}
 		}
@@ -133,6 +189,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"button",
 			"start",
 			"choice",
 			"CardDeck",
@@ -190,23 +247,25 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 825,
+						"buffer_size": 2491,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39,
-								39
+								2063,
+								2063
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 382.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -216,15 +275,15 @@
 					"file": "css/styles.css",
 					"settings":
 					{
-						"buffer_size": 84,
+						"buffer_size": 2182,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								84,
-								84
+								1676,
+								1676
 							]
 						],
 						"settings":
